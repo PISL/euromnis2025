@@ -13,9 +13,6 @@ In the folder you will find 6 files:
 	this is a script with the group roles that the database objects need 
 		roles.sql
 	
-
-If you see a directory called omniscient-logs, ignore it.  
-
 Here are your setup instructions:
 1.	connect to your Postgres instance and run the roles.sql script
 2.	create a database called conf_obf
